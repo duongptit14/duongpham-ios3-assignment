@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5FC5AFCB1CAA1F3700E4D5F0 /* Alert.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FC5AFCA1CAA1F3700E4D5F0 /* Alert.m */; };
 		5FD77BCA1CA9710A004DBF5D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FD77BC91CA9710A004DBF5D /* main.m */; };
 		5FD77BCD1CA9710A004DBF5D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FD77BCC1CA9710A004DBF5D /* AppDelegate.m */; };
 		5FD77BD01CA9710A004DBF5D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FD77BCF1CA9710A004DBF5D /* ViewController.m */; };
@@ -20,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5FC5AFC91CAA1F3700E4D5F0 /* Alert.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Alert.h; sourceTree = "<group>"; };
+		5FC5AFCA1CAA1F3700E4D5F0 /* Alert.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Alert.m; sourceTree = "<group>"; };
 		5FD77BC51CA9710A004DBF5D /* Assignment1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Assignment1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FD77BC91CA9710A004DBF5D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5FD77BCB1CA9710A004DBF5D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -103,6 +106,8 @@
 				5FD77BE71CA974BA004DBF5D /* Vua.m */,
 				5FD77BE91CA9753F004DBF5D /* Xe.h */,
 				5FD77BEA1CA9753F004DBF5D /* Xe.m */,
+				5FC5AFC91CAA1F3700E4D5F0 /* Alert.h */,
+				5FC5AFCA1CAA1F3700E4D5F0 /* Alert.m */,
 			);
 			name = AS1_chess;
 			sourceTree = "<group>";
@@ -179,6 +184,7 @@
 			files = (
 				5FD77BE81CA974BA004DBF5D /* Vua.m in Sources */,
 				5FD77BE21CA97309004DBF5D /* Chess.m in Sources */,
+				5FC5AFCB1CAA1F3700E4D5F0 /* Alert.m in Sources */,
 				5FD77BEB1CA9753F004DBF5D /* Xe.m in Sources */,
 				5FD77BE51CA973E5004DBF5D /* Tot.m in Sources */,
 				5FD77BD01CA9710A004DBF5D /* ViewController.m in Sources */,
@@ -330,6 +336,7 @@
 				5FD77BDE1CA9710A004DBF5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
