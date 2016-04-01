@@ -19,6 +19,9 @@
 -(void) X {
     NSLog(@"Bat duoc roi");
 }
+-(void) test {
+    NSLog(@"Tuan theo lenh la phai co tao");
+}
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.

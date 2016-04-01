@@ -11,6 +11,7 @@
 @protocol MyRules <NSObject>
 
 -(void) X;
+-(void) test;
 
 @end
 
